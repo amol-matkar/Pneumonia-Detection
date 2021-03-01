@@ -16,5 +16,5 @@ Medical images are stored in a special format called DICOM files (*.dcm). They c
 - CXRs are the most commonly performed diagnostic imaging study. A number of factors such as positioning of the patient and depth of inspiration can alter the appearance of the CXR, complicating interpretation further. In addition, clinicians are faced with reading high volumes of images every shift.
 
 
-### Data Source: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
-### Reference: https://www.who.int/news-room/fact-sheets/detail/pneumonia
+###### Data Source: https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data
+###### Reference: https://www.who.int/news-room/fact-sheets/detail/pneumonia
